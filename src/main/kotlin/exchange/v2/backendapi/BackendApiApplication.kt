@@ -8,4 +8,5 @@ class BackendApiApplication
 
 fun main(args: Array<String>) {
 	runApplication<BackendApiApplication>(*args)
+
 }
